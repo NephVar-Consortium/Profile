@@ -1,1 +1,4 @@
-# .github
+- 👋 Hello, welcome to the @NephVar-Consortium
+- 🔭 We seek to advance the diagnostics and treatment methods in precision nephrology
+- 🌱 Correspondence has been described in each individual publication.
+- 📫 Source data for respective publications have been provided in each pinned repository.
